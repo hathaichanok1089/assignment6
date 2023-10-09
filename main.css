@@ -1,0 +1,12 @@
+html, body{
+    background:rgb(116, 88, 55)
+}
+
+legend{
+    font-size: 50px;
+    color:rgb(220, 201, 177)
+}
+
+fieldset{
+    color: rgb(216, 216, 216);
+}
